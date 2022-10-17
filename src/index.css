@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bn{
+    padding: 0.5rem 1rem;
+    background-color: #0070E7;
+    font-weight: bold;
+    color: #fff;
+    font-size: 0.8rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    margin: 1rem
+}
+.vl{
+    border-left: 3px solid white;
+    height: 100px;
+}
